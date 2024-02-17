@@ -3,6 +3,20 @@
 - **說明文件** [**Resilient-Homeland-Data-Map Documentation (by yunchen-lee)**](https://app.heptabase.com/w/a054da7f10484706907856d16ac6d29b4f982822021e6a5296e4b7dead91a73c)
 - **文件中提及的原始碼** [**RHDM-Documentation-SourceCode**](https://github.com/GIAAIL/RHDM-Documentation-SourceCode)
 
+---
+## 韌性家園數據地圖/ 系統架構與功能說明圖
+![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/1.png)
+---
+![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/2.gif)
+---
+![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/3.gif)
+---
+![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/4.gif)
+---
+![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/5.gif)
+---
+---
+
 ## 相關進度報告(依時間排列)
 [**2022_0421_韌性家園全員大會**](https://docs.google.com/presentation/d/1EcOOVVf1lLsfxeV6Y3lDJblP9ayU9nFzvRm1PSr-lAk/edit?usp=sharing) 
 - 都市中遍佈式感測器結合TinyML 創建及時數據資料庫/將即時數據結合無人機影像之機器學習-事件辨識：都市事件影像庫、lay板子(TinyML+攝影機)、環境監測(esp8266)
@@ -44,21 +58,9 @@
 - 資料上傳格式說明
 
 [**2023_0710_韌性家園進度報告**](https://docs.google.com/presentation/d/13V9P6wkILdbpFCBdZA-1buNO7d36kxg2/edit?usp=sharing&ouid=107740200441020499489&rtpof=true&sd=true)
-- Resilient-Homeland-Data-Map_v7 線上地圖架構與功能說明(如下簡報)
+- Resilient-Homeland-Data-Map_v7 線上地圖架構與功能說明(如上節簡報)
 
 [**2023_0723_侯老師團隊_靭性家園計畫_期中進度報告-子計畫二**](https://docs.google.com/document/d/1BlgqOiwH3zIDAlhnFv-nmexMoYtB0cLV/edit?usp=sharing&ouid=107740200441020499489&rtpof=true&sd=true) **(.doc)**
 - 環境監測資料地圖系統開發
 
----
-## 韌性家園數據地圖/ 系統架構與功能說明圖
-![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/1.png)
----
-![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/2.gif)
----
-![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/3.gif)
----
-![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/4.gif)
----
-![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/5.gif)
----
----
+
