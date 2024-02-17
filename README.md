@@ -29,15 +29,25 @@
 - 數據地圖介面設計
 - AI判斷雲霧情境，結合環境感測(提案與測試)
 
-[**2023_0210_111年度第2次全員大會**](https://docs.google.com/presentation/d/1T4kZMpWxelw4avU9jKIaPhO4QRb8drYPKZc5qg-K1H4/edit?usp=sharing)
+[**2023_0210_111年度第2次全員大會**](https://docs.google.com/presentation/d/1T4kZMpWxelw4avU9jKIaPhO4QRb8drYPKZc5qg-K1H4/edit?usp=sharing) 
+- 政府開放數據串接
+- 數據視覺化平台架構規劃與介面設計
+- 調查個子計畫資料現況與呈現需求
 
 [**2023_0320_韌性家園進度報告**](https://docs.google.com/presentation/d/18j-FNgMbaPoWZbjSwoXURZrqfAg6MCtyqBNheUeP_og/edit?usp=sharing)
+- 國網資料集平台 API
+- 交大校園影像資料串接(國網)與視覺化測試
+- 滾動式視覺化地圖+3D地景
 
 [**2023_0503_韌性家園進度報告**](https://docs.google.com/presentation/d/1ajf28DOjQ4d1PFYd9X9fDn8o89Uxhf0a50CqFZy6p6g/edit?usp=sharing)
+- 滾動式視覺化地圖：交大照片地圖、假資料群飛路徑、假資料巡檢路徑與影像、影像直播串流
+- 資料上傳格式說明
 
 [**2023_0710_韌性家園進度報告**](https://docs.google.com/presentation/d/13V9P6wkILdbpFCBdZA-1buNO7d36kxg2/edit?usp=sharing&ouid=107740200441020499489&rtpof=true&sd=true)
+- Resilient-Homeland-Data-Map_v7 線上地圖架構與功能說明(如下簡報)
 
 [**2023_0723_侯老師團隊_靭性家園計畫_期中進度報告-子計畫二**](https://docs.google.com/document/d/1BlgqOiwH3zIDAlhnFv-nmexMoYtB0cLV/edit?usp=sharing&ouid=107740200441020499489&rtpof=true&sd=true)
+- 環境監測資料地圖系統開發
 
 ---
 ## 韌性家園數據地圖/ 系統架構與功能說明圖
