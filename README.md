@@ -20,6 +20,18 @@
 - 空氣盒子
 - 城市資料集
 
+[**2022_1124_111年度第一次全員大會**](https://docs.google.com/presentation/d/1fiQgb2Jv250rVQBxvt5O54Z9gUV3LiohEmlLpQU4jW8/edit?usp=sharing)
+- 韌性家園數據地圖架構圖
+- 點/線資料視覺化
+
+[**2023_0103_韌性家園進度報告**](https://docs.google.com/presentation/d/1uwmBd7Le6Xuh907dZfZCTzZdXTi2hffT7VtF4NMawfo/edit?usp=sharing)
+- 數據資料匯入平台前置準備：地理圖資格式界定
+- 數據地圖介面設計
+- AI判斷雲霧情境，結合環境感測(提案與測試)
+
+[**2023_0210_111年度第2次全員大會**](https://docs.google.com/presentation/d/1T4kZMpWxelw4avU9jKIaPhO4QRb8drYPKZc5qg-K1H4/edit?usp=sharing)
+
+
 ---
 ## 韌性家園數據地圖/ 系統架構與功能說明圖
 ![image](https://github.com/GIAAIL/Resilient-Homeland-Data-Map_v7/blob/main/images_readme/1.png)
