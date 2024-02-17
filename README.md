@@ -17,7 +17,7 @@
 ---
 ---
 
-## 相關進度報告(依時間排列)
+## 歷次進度報告(依時間排列)
 [**2022_0421_韌性家園全員大會**](https://docs.google.com/presentation/d/1EcOOVVf1lLsfxeV6Y3lDJblP9ayU9nFzvRm1PSr-lAk/edit?usp=sharing) 
 - 都市中遍佈式感測器結合TinyML 創建及時數據資料庫/將即時數據結合無人機影像之機器學習-事件辨識：都市事件影像庫、lay板子(TinyML+攝影機)、環境監測(esp8266)
 - 開源Web API：Heroku API
