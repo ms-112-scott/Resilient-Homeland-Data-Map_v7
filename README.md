@@ -8,10 +8,12 @@
 - 都市中遍佈式感測器結合TinyML 創建及時數據資料庫/將即時數據結合無人機影像之機器學習-事件辨識：都市事件影像庫、lay板子(TinyML+攝影機)、環境監測(esp8266)
 - 開源Web API：Heroku API
 - 2022 參訪活動列表
+
 [**2022_0817＿子計畫二_侯君昊老師**](https://docs.google.com/document/d/1pV2VF7f2IUFCAUWKvf5OLsokG1xu0uXh/edit) **期中進度報告**
 - 環境感知與體感控制
 - Pix2Pix應用於城市環境做語意分析、城市資料集生成
 - 空氣質量監測的感測方案與模組
+
 [**2022_0922_韌性家園子計畫會議**](https://docs.google.com/presentation/d/1aMIFZd81YSwRS6IBWZJeiwrdHQNt-lpjAACD7whnN2M/edit?usp=sharing)
 - IoT Web 網頁架構(Firebase)
 - Mapbox 數據地圖案例
