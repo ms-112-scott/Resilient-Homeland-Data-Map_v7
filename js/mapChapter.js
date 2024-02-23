@@ -273,7 +273,7 @@ map.on("load", function() {
     };
 
 
-    // 自動建立右側迷你選單，迷你選單樣式請至 style.css 修改
+    //# 自動建立右側迷你選單，迷你選單樣式請至 style.css 修改
     // ---- create chapter nav html elem ---- //
     config.chapters.forEach(c => {
         if (c.id != 'first-identifier') { // 除了首頁都要建立迷你選單
@@ -307,7 +307,7 @@ map.on("load", function() {
 
 
     // 章節切換事件設定
-    // ---- As the map moves, grab and update bounds in inset map. ----
+    // ---- As the map moves, grab and update bounds in inset map. ---- //
     if (config.inset) {
         map.on('move', getInsetBounds);
     }
@@ -440,7 +440,7 @@ map.on("load", function() {
 
 
     // ===========================================================
-    // /* Threebox 地圖初始化(後續可新增立體路徑、立體物件等等) */
+    // /* Threebox 地圖初始化(後續可新增立體路徑、立體物件等等)，無須修改 */
     // ---- add three.js layer ---- //
     map.addLayer({
         id: 'custom_layer',
@@ -470,7 +470,7 @@ map.on("load", function() {
     // ==============================================================================
     // /* 交大校園照片：點座標、圖片連結 */
 
-    // ---- add nycu photo location ----- 
+    // ---- add nycu photo location ---- // 
     map.loadImage( // 讀取圖釘(marker)圖片
         '../images/pin_image_v5.png', //# 填入圖片檔案位置 
 
