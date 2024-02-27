@@ -1,9 +1,6 @@
 var config = {
-    // style: 'mapbox://styles/mapbox/dark-v10', // dark style
-    // style: 'mapbox://styles/mapbox/streets-v11',
-    // style: 'mapbox://styles/mapbox/light-v10',
-    // style: 'mapbox://styles/mapbox/satellite-v9',
-    style: 'mapbox://styles/mapbox/outdoors-v10',
+    // style: 'mapbox://styles/mapbox/outdoors-v10',
+    style: 'mapbox://styles/yunchen-lee/clsvlegso000y01oic95c3egs', // hide shield
     accessToken: 'pk.eyJ1IjoieXVuY2hlbi1sZWUiLCJhIjoiY2wxeGttYmg0MDNwaTNicWY5bWM5ZHM0OCJ9.gS5S-DMTk308nQP8MAzN0w', // my token
     // showMarkers: true,
     showMarkers: false,
