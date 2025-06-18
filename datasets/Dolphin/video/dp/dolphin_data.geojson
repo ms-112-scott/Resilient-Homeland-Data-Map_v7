@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.497185, 24.301337]
+      },
+      "properties": {
+        "title": "白海豚空拍影像 1",
+        "videourl": "datasets/Dolphin/video/dp/dp-1.mp4",
+        "time": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.502185, 24.312337]
+      },
+      "properties": {
+        "title": "白海豚空拍影像 2",
+        "videourl": "datasets/Dolphin/video/dp/dp-2.mp4",
+        "time": ""
+      }
+    }
+  ]
+}

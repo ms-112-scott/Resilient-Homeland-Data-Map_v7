@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.95911, 22.50725]
+      },
+      "properties": {
+        "title": "台東 多良車站",
+        "time": "live streaming",
+        "videourl": "https://www.youtube.com/embed/UCG1aXVO8H8?autoplay=1&mute=1&modestbranding=1&loop=1&vq=hd1080"
+      }
+    }
+  ]
+}

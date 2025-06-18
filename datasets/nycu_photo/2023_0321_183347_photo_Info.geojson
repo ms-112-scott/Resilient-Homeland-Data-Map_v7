@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "人社二館",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/人社二館x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.999924, 24.787246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "工程五館-1",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/工程五館-1x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.997859, 24.786578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "工程五館-2",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/工程五館-2x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.997084, 24.786358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "工程六館",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/工程六館x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.996279, 24.786382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "交映樓",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/交映樓x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.996105, 24.786523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "竹湖",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/竹湖x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.99989, 24.787622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "活動中心",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/活動中心x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.000565, 24.786639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "研三宿舍",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/研三宿舍x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.996587, 24.784091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浩然圖書館",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/浩然圖書館x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.998091, 24.786899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "電資大樓-1",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/電資大樓-1x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.001382, 24.787075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "電資大樓-2",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/電資大樓-2x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.001186, 24.786373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "棒球場",
+        "time": "2023_0214",
+        "imgurl": "datasets/nycu_photo/pic/棒球場x640.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.995687, 24.784762]
+      }
+    }
+  ]
+}

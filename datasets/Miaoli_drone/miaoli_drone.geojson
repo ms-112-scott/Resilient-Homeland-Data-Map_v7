@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.879545, 24.538407]
+      },
+      "properties": {
+        "title": "路徑1",
+        "time": "2023_0316_1130",
+        "videourl": "https://www.youtube.com/embed/E2DbnCGL63g?autoplay=1&mute=1&modestbranding=1&loop=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.8863807, 24.53765926]
+      },
+      "properties": {
+        "title": "路徑2",
+        "time": "2023_0316_1154",
+        "videourl": "https://www.youtube.com/embed/P810d4VNdzw?autoplay=1&mute=1&modestbranding=1&loop=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.8800277, 24.53879649]
+      },
+      "properties": {
+        "title": "路徑3",
+        "time": "2023_0316_1441",
+        "videourl": "https://www.youtube.com/embed/stc-bRSqmUM?autoplay=1&mute=1&modestbranding=1&loop=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.886057, 24.53799016]
+      },
+      "properties": {
+        "title": "路徑4",
+        "time": "2023_0316_1505",
+        "videourl": "https://www.youtube.com/embed/IFKbZxpYIiA?autoplay=1&mute=1&modestbranding=1&loop=1"
+      }
+    }
+  ]
+}

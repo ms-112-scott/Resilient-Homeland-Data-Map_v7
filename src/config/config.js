@@ -30,8 +30,8 @@ export default {
       title: "",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
       location: {
-        center: [120.38, 24.5],
-        zoom: 7.5,
+        center: [120.38, 23.9],
+        zoom: 6.8,
         pitch: 0,
         bearing: 0,
       },
@@ -62,7 +62,7 @@ export default {
       mediaType: "image",
     },
     {
-      id: "third-chapter",
+      id: "third-identifier",
       alignment: "left",
       hidden: false,
       title: "空拍分析影像 白海豚",
@@ -81,7 +81,7 @@ export default {
       mediaType: "videoFile",
     },
     {
-      id: "fourth-chapter",
+      id: "fourth-identifier",
       alignment: "left",
       hidden: false,
       title: "無人機苗栗山區道路自主導航",
@@ -101,7 +101,7 @@ export default {
       mediaType: "video",
     },
     {
-      id: "sixth-chapter",
+      id: "sixth-identifier",
       alignment: "left",
       hidden: false,
       title: "群飛路徑視覺化測試資料",
@@ -120,7 +120,7 @@ export default {
       mediaType: "none",
     },
     {
-      id: "seventh-chapter",
+      id: "seventh-identifier",
       alignment: "left",
       hidden: false,
       title: "台東多良車站即時影像",

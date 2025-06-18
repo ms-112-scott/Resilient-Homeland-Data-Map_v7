@@ -1,7 +1,6 @@
 // src/modules/init/setupStoryElements.js
-import config from "../../config/config.js";
 
-export function setupStoryElements() {
+export function setupStoryElements(config, map) {
   const story = document.getElementById("story");
   const features = document.createElement("div");
   features.setAttribute("id", "features");
@@ -53,13 +52,43 @@ export function setupStoryElements() {
 
   story.appendChild(features);
 
+  // Navbar for chapter jump
+  config.chapters.forEach((c) => {
+    if (c.id !== "first-identifier") {
+      // 除了首頁都要建立迷你選單
+      var a = document.createElement("a");
+      var linkText = document.createTextNode(c.title);
+      a.classList.add("nav-item");
+      a.appendChild(linkText);
+      a.href = "#" + c.id;
+      a.onclick = function () {
+        // 每次點擊選單的時候會飛到該章節
+        // console.log(c.location.center)
+        map.flyTo({
+          center: c.location.center,
+          zoom: c.location.zoom,
+          pitch: c.location.pitch,
+          bearing: c.location.bearing,
+          essential: true,
+          padding: {
+            top: 0,
+            bottom: 0,
+            left: 0,
+            right: 0,
+          },
+          duration: 1200, // 動畫時長
+        });
+      };
+      document.getElementById("navbar").appendChild(a);
+    }
+  });
+
   // Footer
   if (config.footer) {
     const footerText = document.createElement("p");
     footerText.innerHTML = config.footer;
     footer.appendChild(footerText);
   }
-
   if (footer.innerText.length > 0) {
     footer.classList.add(config.theme);
     footer.setAttribute("id", "footer");
